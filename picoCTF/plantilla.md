@@ -1,6 +1,6 @@
 # Reto
 
-## Descripción
+## Descripción 
 
 ## Solución
 
