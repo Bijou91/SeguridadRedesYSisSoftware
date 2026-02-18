@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff976851bf70e99",
+        "id": "6517fbe85eb40f1a",
         "type": "tabs",
         "children": [
           {
-            "id": "e3592a9bf2fb0e76",
+            "id": "2828bd51fc5954bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/03 - General Skills 3/01 - Codebook.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01 - Codebook"
+              "title": "New tab"
             }
           }
         ]
@@ -183,8 +179,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "e3592a9bf2fb0e76",
+  "active": "2828bd51fc5954bf",
   "lastOpenFiles": [
+    "picoCTF/Tarea 01 - General Skills/01 - Permissions.md",
+    "picoCTF/Tarea 01 - General Skills/02 - Chrono.md",
+    "picoCTF/Tarea 01 - General Skills/03 - Special.md",
+    "picoCTF/Tarea 01 - General Skills/04 - Commitment Issues.md",
+    "picoCTF/Tarea 01 - General Skills/05 - Time machine.md",
+    "picoCTF/Tarea 01 - General Skills/06 - Blame Game.md",
+    "picoCTF/Tarea 01 - General Skills/07 - Collaborative Development.md",
+    "picoCTF/Tarea 01 - General Skills/08 - Binary Search.md",
+    "picoCTF/Tarea 01 - General Skills/10 - ASCII Numbers.md",
+    "picoCTF/Tarea 01 - General Skills/09 - Binhexa.md",
+    "picoCTF/Tarea 01 - General Skills/01 - Binary Search.md",
+    "picoCTF/03 - General Skills 3/01 - Codebook.md",
+    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/home/ctf-player/drop-in/guessing_game.sh",
+    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/home/ctf-player/drop-in",
+    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/home/ctf-player",
+    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/home",
+    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/challenge.zip",
+    "picoCTF/Tarea 01 - General Skills/01-BinarySearch",
+    "picoCTF/Tarea 01 - General Skills/Nueva carpeta",
+    "picoCTF/Tarea 01 - General Skills",
+    "picoCTF/Nueva carpeta",
     "picoCTF/03 - General Skills 3/02 - Convertme.md",
     "picoCTF/03 - General Skills 3/03 - fixme1.md",
     "picoCTF/03 - General Skills 3/04 - fixme2.md",
@@ -194,27 +211,12 @@
     "picoCTF/03 - General Skills 3/09 - PW Crack 3.md",
     "picoCTF/03 - General Skills 3/08 - Super SSH.md",
     "picoCTF/03 - General Skills 3/07 - runme.md",
-    "picoCTF/03 - General Skills 3/01 - Codebook.md",
     "Pasted image 20260213172250.png",
     "picoCTF/02 - General Skills 2/10 - First Find.md",
     "picoCTF/03 - General Skills 3",
     "picoCTF/02 - General Skills 2/01 - Big Zip.md",
     "picoCTF/02 - General Skills 2/02 - strings it.md",
     "picoCTF/02 - General Skills 2/03 - Wave a Flag.md",
-    "picoCTF/02 - General Skills 2/04 - Static ain't always noise.md",
-    "picoCTF/02 - General Skills 2/09 - Based.md",
-    "picoCTF/02 - General Skills 2/08 - repetitions.md",
-    "picoCTF/02 - General Skills 2/07 - Magikarp Ground Mission.md",
-    "picoCTF/02 - General Skills 2/06 - Tab, Tab, Attack.md",
-    "picoCTF/02 - General Skills 2/05 - useless.md",
-    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "picoCTF/plantilla.md",
-    "picoCTF/02 - General Skills 2",
-    "picoCTF/01 - General Skills/09 - Glitch Cat.md",
-    "picoCTF/01 - General Skills/08 - Plumbing.md",
-    "picoCTF/01 - General Skills/07 - What's a net cat.md",
-    "picoCTF/01 - General Skills/06 - Obedient Cat.md",
-    "picoCTF/01 - General Skills",
-    "picoCTF"
+    "picoCTF/02 - General Skills 2/04 - Static ain't always noise.md"
   ]
 }
