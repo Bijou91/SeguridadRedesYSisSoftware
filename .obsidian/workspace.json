@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2828bd51fc5954bf",
+            "id": "0c006a37e9b0cf63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/06 - picoCTF Web 3/03 - JaWT Scratchpad.md",
+                "file": "picoCTF/Tarea 02 - Web/10 - WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - JaWT Scratchpad"
+              "title": "10 - WebDecode"
             }
           }
         ]
@@ -183,21 +183,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2828bd51fc5954bf",
+  "active": "4c5c907d8bdaaf8e",
   "lastOpenFiles": [
+    "picoCTF/Tarea 02 - Web/01 - Includes.md",
+    "picoCTF/Tarea 02 - Web/02 - Inspect HTML.md",
+    "picoCTF/Tarea 02 - Web/03 - IntroToBurp.md",
+    "picoCTF/Tarea 02 - Web/04 - Local Authority.md",
+    "picoCTF/Tarea 02 - Web/09 - Unminify.md",
+    "picoCTF/07 - picoCTF Web 4/03 - Trickster.md",
+    "picoCTF/07 - picoCTF Web 4/01 - MatchTheRegex.md",
+    "picoCTF/07 - picoCTF Web 4/02 - SOAP.md",
+    "picoCTF/Tarea 02 - Web/imagenes/10WebDecode02.png",
+    "picoCTF/Tarea 02 - Web/imagenes/10WebDecode01.png",
+    "picoCTF/07 - picoCTF Web 4/04 - Most Cookies.md",
+    "picoCTF/Tarea 02 - Web/10 - WebDecode.md",
+    "picoCTF/Tarea 02 - Web/imagenes/09Unminify02.png",
+    "picoCTF/Tarea 02 - Web/imagenes/09Unminify01.png",
+    "picoCTF/Tarea 02 - Web/03 - IntroToBurp 1.md",
+    "picoCTF/Tarea 02 - Web/imagenes/04LocalAuth01.png",
+    "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp01.png",
+    "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp02.png",
+    "picoCTF/Tarea 02 - Web/imagenes/02InspectHTML01.png",
+    "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp04.png",
+    "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp03.png",
+    "picoCTF/Tarea 02 - Web/imagenes",
+    "picoCTF/Tarea 02 - Web",
+    "picoCTF/07 - picoCTF Web 4/imagenes",
+    "picoCTF/06 - picoCTF Web 3/03 - JaWT Scratchpad.md",
+    "picoCTF/07 - picoCTF Web 4",
     "picoCTF/06 - picoCTF Web 3/02 - More SQLi.md",
     "picoCTF/06 - picoCTF Web 3/01 - Irish-Name-Repo 1.md",
-    "picoCTF/06 - picoCTF Web 3/03 - JaWT Scratchpad.md",
-    "Pasted image 20260228182903.png",
-    "picoCTF/06 - picoCTF Web 3/imagenes/03JAWT01.png",
-    "picoCTF/06 - picoCTF Web 3/imagenes/03JAWT04.png",
-    "picoCTF/06 - picoCTF Web 3/imagenes/03JAWT06.png",
-    "picoCTF/06 - picoCTF Web 3/imagenes/03JAWT05.png",
-    "picoCTF/06 - picoCTF Web 3/imagenes/03JAWT02.png",
-    "picoCTF/06 - picoCTF Web 3/imagenes/03JAWT03.png",
-    "Pasted image 20260227190222.png",
-    "picoCTF/06 - picoCTF Web 3/imagenes/02MoreSQLi05.png",
-    "picoCTF/06 - picoCTF Web 3/imagenes/02MoreSQLi03.png",
     "picoCTF/05 - picoCTF Web 2/02 - Cookies.md",
     "picoCTF/Tarea 01 - General Skills/04 - Commitment Issues.md",
     "picoCTF/Tarea 01 - General Skills/02 - Chrono.md",
@@ -212,23 +227,8 @@
     "picoCTF/04 - picoCTF Web 1/04 - dont-use-client-side.md",
     "picoCTF/04 - picoCTF Web 1/06 - Client-side-again.md",
     "picoCTF/04 - picoCTF Web 1/03 - logon.md",
-    "picoCTF/04 - picoCTF Web 1/01 - Insp3ct0r.md",
     "picoCTF/05 - picoCTF Web 2",
-    "picoCTF/plantilla.md",
-    "picoCTF/04 - picoCTF Web 1/02 - where are the robots.md",
-    "picoCTF/02 - General Skills 2/09 - Based.md",
-    "picoCTF/03 - General Skills 3/10 - Serpentine.md",
-    "picoCTF/03 - General Skills 3/09 - PW Crack 3.md",
-    "picoCTF/03 - General Skills 3/08 - Super SSH.md",
-    "picoCTF/03 - General Skills 3/06 - PW Crack 2.md",
-    "picoCTF/03 - General Skills 3/04 - fixme2.md",
     "picoCTF/04 - picoCTF Web 1/imagenes",
-    "picoCTF/04 - picoCTF Web 1",
-    "picoCTF/Tarea 01 - General Skills/03 - Special.md",
-    "picoCTF/Tarea 01 - General Skills/05 - Time machine.md",
-    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/home/ctf-player/drop-in/guessing_game.sh",
-    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/home/ctf-player/drop-in",
-    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/home/ctf-player",
-    "picoCTF/Tarea 01 - General Skills/01-BinarySearch/home"
+    "picoCTF/04 - picoCTF Web 1"
   ]
 }
