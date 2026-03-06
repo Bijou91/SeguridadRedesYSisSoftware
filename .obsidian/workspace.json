@@ -11,14 +11,12 @@
             "id": "0c006a37e9b0cf63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "picoCTF/Tarea 02 - Web/10 - WebDecode.md",
-                "mode": "source",
-                "source": false
+                "file": "picoCTF/Tarea 02 - Web/imagenes/08SQLiLite.png"
               },
-              "icon": "lucide-file",
-              "title": "10 - WebDecode"
+              "icon": "lucide-image",
+              "title": "08SQLiLite"
             }
           }
         ]
@@ -185,8 +183,18 @@
   },
   "active": "4c5c907d8bdaaf8e",
   "lastOpenFiles": [
-    "picoCTF/Tarea 02 - Web/01 - Includes.md",
+    "picoCTF/Tarea 02 - Web/08 - SQLiLite.md",
+    "picoCTF/Tarea 02 - Web/imagenes/08SQLiLite.png",
+    "picoCTF/Tarea 02 - Web/07 - SECRETS.md",
+    "picoCTF/Tarea 02 - Web/06 - Roboto Sans.md",
+    "picoCTF/Tarea 02 - Web/imagenes/06RobotoSans.png",
+    "picoCTF/Tarea 02 - Web/imagenes/07Secrets.png",
+    "README.md",
+    "picoCTF/Tarea 02 - Web/imagenes/05PowerCookie.png",
+    "picoCTF/Tarea 02 - Web/05 - Power Cookie.md",
     "picoCTF/Tarea 02 - Web/02 - Inspect HTML.md",
+    "picoCTF/Tarea 02 - Web/01 - Includes.md",
+    "picoCTF/Tarea 02 - Web/10 - WebDecode.md",
     "picoCTF/Tarea 02 - Web/03 - IntroToBurp.md",
     "picoCTF/Tarea 02 - Web/04 - Local Authority.md",
     "picoCTF/Tarea 02 - Web/09 - Unminify.md",
@@ -196,16 +204,11 @@
     "picoCTF/Tarea 02 - Web/imagenes/10WebDecode02.png",
     "picoCTF/Tarea 02 - Web/imagenes/10WebDecode01.png",
     "picoCTF/07 - picoCTF Web 4/04 - Most Cookies.md",
-    "picoCTF/Tarea 02 - Web/10 - WebDecode.md",
     "picoCTF/Tarea 02 - Web/imagenes/09Unminify02.png",
     "picoCTF/Tarea 02 - Web/imagenes/09Unminify01.png",
     "picoCTF/Tarea 02 - Web/03 - IntroToBurp 1.md",
     "picoCTF/Tarea 02 - Web/imagenes/04LocalAuth01.png",
     "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp01.png",
-    "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp02.png",
-    "picoCTF/Tarea 02 - Web/imagenes/02InspectHTML01.png",
-    "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp04.png",
-    "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp03.png",
     "picoCTF/Tarea 02 - Web/imagenes",
     "picoCTF/Tarea 02 - Web",
     "picoCTF/07 - picoCTF Web 4/imagenes",
@@ -221,12 +224,7 @@
     "picoCTF/06 - picoCTF Web 3/imagenes",
     "picoCTF/06 - picoCTF Web 3",
     "picoCTF/03 - General Skills 3/02 - Convertme.md",
-    "picoCTF/05 - picoCTF Web 2/01 - GET aHEAD.md",
     "picoCTF/05 - picoCTF Web 2/imagenes",
-    "picoCTF/04 - picoCTF Web 1/05 - picobrowser.md",
-    "picoCTF/04 - picoCTF Web 1/04 - dont-use-client-side.md",
-    "picoCTF/04 - picoCTF Web 1/06 - Client-side-again.md",
-    "picoCTF/04 - picoCTF Web 1/03 - logon.md",
     "picoCTF/05 - picoCTF Web 2",
     "picoCTF/04 - picoCTF Web 1/imagenes",
     "picoCTF/04 - picoCTF Web 1"
