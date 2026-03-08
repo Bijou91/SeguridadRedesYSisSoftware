@@ -11,12 +11,14 @@
             "id": "0c006a37e9b0cf63",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 02 - Web/imagenes/08SQLiLite.png"
+                "file": "picoCTF/08 - Forensic 1/02 - Extensions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "08SQLiLite"
+              "icon": "lucide-file",
+              "title": "02 - Extensions"
             }
           }
         ]
@@ -181,10 +183,25 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4c5c907d8bdaaf8e",
+  "active": "0c006a37e9b0cf63",
   "lastOpenFiles": [
-    "picoCTF/Tarea 02 - Web/08 - SQLiLite.md",
+    "Sin título.base",
+    "picoCTF/08 - Forensic 1/02 - Extensions.md",
+    "picoCTF/08 - Forensic 1/03 - shark on wire 1.md",
+    "picoCTF/08 - Forensic 1/04 - So Meta.md",
+    "picoCTF/08 - Forensic 1/05 - What Lies Within.md",
+    "picoCTF/08 - Forensic 1/imagenes/03sharkonwire3.png",
+    "picoCTF/08 - Forensic 1/imagenes/03sharkonwire2.png",
+    "picoCTF/08 - Forensic 1/imagenes/03sharkonwire1.png",
+    "picoCTF/08 - Forensic 1/imagenes/02Extensions.png",
+    "picoCTF/08 - Forensic 1/imagenes",
+    "picoCTF/08 - Forensic 1/01 - Glory of the Garden.md",
+    "picoCTF/07 - picoCTF Web 4/03 - Trickster.md",
+    "picoCTF/07 - picoCTF Web 4/02 - SOAP.md",
+    "picoCTF/07 - picoCTF Web 4/01 - MatchTheRegex.md",
     "picoCTF/Tarea 02 - Web/imagenes/08SQLiLite.png",
+    "picoCTF/08 - Forensic 1",
+    "picoCTF/Tarea 02 - Web/08 - SQLiLite.md",
     "picoCTF/Tarea 02 - Web/07 - SECRETS.md",
     "picoCTF/Tarea 02 - Web/06 - Roboto Sans.md",
     "picoCTF/Tarea 02 - Web/imagenes/06RobotoSans.png",
@@ -198,17 +215,10 @@
     "picoCTF/Tarea 02 - Web/03 - IntroToBurp.md",
     "picoCTF/Tarea 02 - Web/04 - Local Authority.md",
     "picoCTF/Tarea 02 - Web/09 - Unminify.md",
-    "picoCTF/07 - picoCTF Web 4/03 - Trickster.md",
-    "picoCTF/07 - picoCTF Web 4/01 - MatchTheRegex.md",
-    "picoCTF/07 - picoCTF Web 4/02 - SOAP.md",
     "picoCTF/Tarea 02 - Web/imagenes/10WebDecode02.png",
     "picoCTF/Tarea 02 - Web/imagenes/10WebDecode01.png",
     "picoCTF/07 - picoCTF Web 4/04 - Most Cookies.md",
-    "picoCTF/Tarea 02 - Web/imagenes/09Unminify02.png",
-    "picoCTF/Tarea 02 - Web/imagenes/09Unminify01.png",
     "picoCTF/Tarea 02 - Web/03 - IntroToBurp 1.md",
-    "picoCTF/Tarea 02 - Web/imagenes/04LocalAuth01.png",
-    "picoCTF/Tarea 02 - Web/imagenes/03IntroBurp01.png",
     "picoCTF/Tarea 02 - Web/imagenes",
     "picoCTF/Tarea 02 - Web",
     "picoCTF/07 - picoCTF Web 4/imagenes",
@@ -217,16 +227,8 @@
     "picoCTF/06 - picoCTF Web 3/02 - More SQLi.md",
     "picoCTF/06 - picoCTF Web 3/01 - Irish-Name-Repo 1.md",
     "picoCTF/05 - picoCTF Web 2/02 - Cookies.md",
-    "picoCTF/Tarea 01 - General Skills/04 - Commitment Issues.md",
-    "picoCTF/Tarea 01 - General Skills/02 - Chrono.md",
-    "picoCTF/Tarea 01 - General Skills/01 - Permissions.md",
-    "picoCTF/05 - picoCTF Web 2/03 - Scavenger Hunt.md",
     "picoCTF/06 - picoCTF Web 3/imagenes",
     "picoCTF/06 - picoCTF Web 3",
-    "picoCTF/03 - General Skills 3/02 - Convertme.md",
-    "picoCTF/05 - picoCTF Web 2/imagenes",
-    "picoCTF/05 - picoCTF Web 2",
-    "picoCTF/04 - picoCTF Web 1/imagenes",
-    "picoCTF/04 - picoCTF Web 1"
+    "picoCTF/05 - picoCTF Web 2/imagenes"
   ]
 }
