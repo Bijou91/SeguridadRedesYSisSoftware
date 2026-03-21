@@ -39,7 +39,7 @@ TveAJPv6Xq1ERt5PUtX3BqQ=
 ```
 
 Llave ya cargada:
-![[02_webnet101.png]]
+![[picoCTF/10 - Forensic 3/imagenes/02_webnet101.png]]
 
 En el paquete 47, podemos notar que una imagen está intentando descargarse, así que la guardamos de manera local
 ```
@@ -47,7 +47,7 @@ En el paquete 47, podemos notar que una imagen está intentando descargarse, as�
 ```
 
 Imagen:
-![[02_webnet102.png]]
+![[picoCTF/10 - Forensic 3/imagenes/02_webnet102.png]]
 
 La imagen en si no dice nada, asíque le aplicamos un strings
 ```

@@ -39,10 +39,10 @@ TveAJPv6Xq1ERt5PUtX3BqQ=
 ```
 
 Llave ya cargada:
-![[01webnet001.png]]
+![[picoCTF/10 - Forensic 3/imagenes/01webnet001.png]]
 
 Ahora lo que haremos es buscar en la descripción de paquete el string 'picoCTF'
-![[01webnet002.png]]
+![[picoCTF/10 - Forensic 3/imagenes/01webnet002.png]]
 
 picoCTF{honey.roasted.peanuts}
 ## Notas

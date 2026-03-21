@@ -31,7 +31,7 @@ Así que usaremos el hexeditor para modificar los valores de necesitamos
 	- Aquí volvemos a editar el BA D0 para que pase a ser 28 00
 
 Con estas correcciones, intentamos abrir la imagen pero no hay bandera
-![[04_tunnel01.png]]
+![[picoCTF/10 - Forensic 3/imagenes/04_tunnel01.png]]
 
 Buscando en los metadatos del archivo, podemos notar que la altura de la imagen no es completamente concordante con el tamaño que tiene el archivo.
 ```
@@ -99,7 +99,7 @@ Megapixels                      : 1.2
 ```
 
 Ahora sí, nuestra flag es visible
-![[04_tunnel02.png]]
+![[picoCTF/10 - Forensic 3/imagenes/04_tunnel02.png]]
 
 picoCTF{qu1t3_a_v13w_2020}
 ## Notas
