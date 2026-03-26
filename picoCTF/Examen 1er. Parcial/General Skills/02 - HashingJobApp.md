@@ -27,6 +27,4 @@ picoCTF{4ppl1c4710n_r3c31v3d_674c1de2}
 # Notas adicionales
 - 
 # Referencias
-- https://gchq.github.io/CyberChef/#recipe=MD5()&input=Y29ybiBvbiB0aGUgY29i
-- https://gchq.github.io/CyberChef/#recipe=MD5()&input=bG9jYWwgcG9saWNl
-- https://gchq.github.io/CyberChef/#recipe=MD5()&input=YmFkIGRvZ3M
+- 
