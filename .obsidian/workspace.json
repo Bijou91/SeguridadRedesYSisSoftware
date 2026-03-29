@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Examen 1er. Parcial/Web/08 - SSTI2.md",
+                "file": "picoCTF/Tarea 04 - Forensic/05 - Scan Surprise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - SSTI2"
+              "title": "05 - Scan Surprise"
             }
           }
         ]
@@ -185,9 +185,23 @@
   },
   "active": "0c006a37e9b0cf63",
   "lastOpenFiles": [
+    "picoCTF/Tarea 04 - Forensic/09 - Ph4nt0m 1ntrud3r.md",
+    "Pasted image 20260328192646.png",
+    "Pasted image 20260328192702.png",
+    "picoCTF/Tarea 04 - Forensic/08 - RED.md",
+    "picoCTF/Tarea 04 - Forensic/07 - Secret of the Polyglot.md",
+    "picoCTF/Tarea 04 - Forensic/06 - CanYouSee.md",
+    "picoCTF/Tarea 04 - Forensic/05 - Scan Surprise.md",
+    "picoCTF/Tarea 04 - Forensic/04 - hideme.md",
+    "picoCTF/Tarea 04 - Forensic/03 - Redaction gone wrong.md",
+    "picoCTF/Tarea 04 - Forensic/02 - st3g0.md",
+    "picoCTF/Tarea 04 - Forensic/01 - information.md",
+    "picoCTF/Tarea 04 - Forensic/QR.png",
+    "picoCTF/09 - Forensic 2/01 - c0rrupt.md",
+    "picoCTF/Examen 1er. Parcial/Web/08 - SSTI2.md",
+    "picoCTF/Tarea 04 - Forensic",
     "picoCTF/Examen 1er. Parcial/Web/imagenes/08SSTI2.png",
     "picoCTF/Examen 1er. Parcial/Web/04 - SSTI1.md",
-    "picoCTF/Examen 1er. Parcial/Web/08 - SSTI2.md",
     "picoCTF/Examen 1er. Parcial/Web/07 - SQL Direct.md",
     "picoCTF/Examen 1er. Parcial/Web/03 - head-dump.md",
     "picoCTF/Examen 1er. Parcial/Web/05 - findme.md",
@@ -207,21 +221,7 @@
     "picoCTF/Examen 1er. Parcial/General Skills/06 - Dont-You-Love-Banners.md",
     "picoCTF/Examen 1er. Parcial/General Skills/10 - Specialer.md",
     "picoCTF/Examen 1er. Parcial/General Skills/09 - SansAlpha.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/08 - Python Wrangling.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/07 - Flag_Shop.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/02 - HashingJobApp.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/01 - Fantasy CTF.md",
-    "picoCTF/Examen 1er. Parcial/Web/imagenes/02cookieMonster01.png",
-    "picoCTF/Examen 1er. Parcial/Web/imagenes/02cookieMonster03.png",
-    "picoCTF/Examen 1er. Parcial/Web/imagenes/02cookieMonster02.png",
     "picoCTF/Examen 1er. Parcial/Web/imagenes",
-    "picoCTF/Examen 1er. Parcial/Web/imagenes/01book02.png",
-    "picoCTF/Examen 1er. Parcial/General Skills/76 - Specialer.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/03 - Rust Fixme 1.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/74 - Python Wrangling.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/75 - SansAlpha.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/69 - Rust Fixme 1.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/68 - HashingJobApp.md",
     "picoCTF/Examen 1er. Parcial/Web",
     "picoCTF/Examen 1er. Parcial/General Skills",
     "Concurso - picoCTF 2026",
@@ -229,7 +229,6 @@
     "Nueva carpeta",
     "picoCTF/11 - Forensic 4/imagenes",
     "picoCTF/11 - Forensic 4/imagenes",
-    "picoCTF/11 - Forensic 4",
-    "picoCTF/Examen 1er. Parcial"
+    "picoCTF/11 - Forensic 4"
   ]
 }
