@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 04 - Forensic/05 - Scan Surprise.md",
+                "file": "picoCTF/12 - Crypto 1/08 - waves over lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Scan Surprise"
+              "title": "08 - waves over lambda"
             }
           }
         ]
@@ -185,13 +185,23 @@
   },
   "active": "0c006a37e9b0cf63",
   "lastOpenFiles": [
+    "picoCTF/12 - Crypto 1/07 - Tapping.md",
+    "picoCTF/12 - Crypto 1/06 - la cifra de.md",
+    "picoCTF/12 - Crypto 1/08 - waves over lambda.md",
+    "picoCTF/12 - Crypto 1/04 - caesar.md",
+    "picoCTF/12 - Crypto 1/05 - Easy1.md",
+    "picoCTF/12 - Crypto 1/03 - The Numbers.md",
+    "picoCTF/12 - Crypto 1/02 - interencdec.md",
+    "picoCTF/12 - Crypto 1/01 - 13.md",
+    "picoCTF/11 - Forensic 4/01 - Milkslap.md",
+    "picoCTF/Tarea 04 - Forensic/05 - Scan Surprise.md",
+    "picoCTF/12 - Crypto 1",
     "picoCTF/Tarea 04 - Forensic/09 - Ph4nt0m 1ntrud3r.md",
     "Pasted image 20260328192646.png",
     "Pasted image 20260328192702.png",
     "picoCTF/Tarea 04 - Forensic/08 - RED.md",
     "picoCTF/Tarea 04 - Forensic/07 - Secret of the Polyglot.md",
     "picoCTF/Tarea 04 - Forensic/06 - CanYouSee.md",
-    "picoCTF/Tarea 04 - Forensic/05 - Scan Surprise.md",
     "picoCTF/Tarea 04 - Forensic/04 - hideme.md",
     "picoCTF/Tarea 04 - Forensic/03 - Redaction gone wrong.md",
     "picoCTF/Tarea 04 - Forensic/02 - st3g0.md",
@@ -209,18 +219,10 @@
     "picoCTF/Examen 1er. Parcial/Web/imagenes/06Java02.png",
     "picoCTF/Examen 1er. Parcial/Web/imagenes/05findme 1.png",
     "picoCTF/Examen 1er. Parcial/Web/02 - Cookie Monster Secret Recipe.md",
-    "picoCTF/Examen 1er. Parcial/Web/01 - Bookmarklet.md",
     "picoCTF/Examen 1er. Parcial/Web/imagenes/06Java01.png",
     "Pasted image 20260325173934.png",
     "Pasted image 20260325174448.png",
-    "picoCTF/plantilla.md",
     "picoCTF/Examen 1er. Parcial/Web/imagenes/05findme.png",
-    "picoCTF/Examen 1er. Parcial/General Skills/05 - rust fixme3.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/03 - rust fixme1.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/04 - rust fixme2.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/06 - Dont-You-Love-Banners.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/10 - Specialer.md",
-    "picoCTF/Examen 1er. Parcial/General Skills/09 - SansAlpha.md",
     "picoCTF/Examen 1er. Parcial/Web/imagenes",
     "picoCTF/Examen 1er. Parcial/Web",
     "picoCTF/Examen 1er. Parcial/General Skills",
@@ -228,7 +230,6 @@
     "picoCTF 2026",
     "Nueva carpeta",
     "picoCTF/11 - Forensic 4/imagenes",
-    "picoCTF/11 - Forensic 4/imagenes",
-    "picoCTF/11 - Forensic 4"
+    "picoCTF/11 - Forensic 4/imagenes"
   ]
 }
