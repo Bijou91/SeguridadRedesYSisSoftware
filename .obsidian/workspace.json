@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/13 - Crypto 2/01 - rsa-pop-quiz.md",
+                "file": "picoCTF/15 - Crypto 4/05 - flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - rsa-pop-quiz"
+              "title": "05 - flags"
             }
           }
         ]
@@ -185,6 +185,18 @@
   },
   "active": "0c006a37e9b0cf63",
   "lastOpenFiles": [
+    "picoCTF/15 - Crypto 4/04 - ReadMyCert.md",
+    "picoCTF/15 - Crypto 4/03 - HideToSee.md",
+    "picoCTF/15 - Crypto 4/02 - basic-mod1.md",
+    "picoCTF/15 - Crypto 4/01 - Pixelated.md",
+    "picoCTF/15 - Crypto 4/05 - flags.md",
+    "picoCTF/14 - Crypto 3/03 - b00tl3gRSA2.md",
+    "picoCTF/14 - Crypto 3/04 - b00tl3gRSA3.md",
+    "picoCTF/14 - Crypto 3/01 - Mini RSA.md",
+    "picoCTF/14 - Crypto 3/02 - Mind your Ps and Qs.md",
+    "picoCTF/14 - Crypto 3",
+    "picoCTF/13 - Crypto 2/01 - rsa-pop-quiz.md",
+    "picoCTF/15 - Crypto 4",
     "picoCTF/12 - Crypto 1/08 - waves over lambda.md",
     "picoCTF/13 - Crypto 2/08 - waves over lambda.md",
     "picoCTF/13 - Crypto 2/07 - Tapping.md",
@@ -193,7 +205,6 @@
     "picoCTF/13 - Crypto 2/04 - caesar.md",
     "picoCTF/13 - Crypto 2/03 - The Numbers.md",
     "picoCTF/13 - Crypto 2/02 - interencdec.md",
-    "picoCTF/13 - Crypto 2/01 - rsa-pop-quiz.md",
     "picoCTF/13 - Crypto 2",
     "picoCTF/12 - Crypto 1/07 - Tapping.md",
     "picoCTF/12 - Crypto 1/06 - la cifra de.md",
@@ -203,18 +214,9 @@
     "picoCTF/12 - Crypto 1/02 - interencdec.md",
     "picoCTF/12 - Crypto 1/01 - 13.md",
     "picoCTF/11 - Forensic 4/01 - Milkslap.md",
-    "picoCTF/Tarea 04 - Forensic/05 - Scan Surprise.md",
     "picoCTF/12 - Crypto 1",
-    "picoCTF/Tarea 04 - Forensic/09 - Ph4nt0m 1ntrud3r.md",
     "Pasted image 20260328192646.png",
     "Pasted image 20260328192702.png",
-    "picoCTF/Tarea 04 - Forensic/08 - RED.md",
-    "picoCTF/Tarea 04 - Forensic/07 - Secret of the Polyglot.md",
-    "picoCTF/Tarea 04 - Forensic/06 - CanYouSee.md",
-    "picoCTF/Tarea 04 - Forensic/04 - hideme.md",
-    "picoCTF/Tarea 04 - Forensic/03 - Redaction gone wrong.md",
-    "picoCTF/Tarea 04 - Forensic/02 - st3g0.md",
-    "picoCTF/Tarea 04 - Forensic/01 - information.md",
     "picoCTF/Tarea 04 - Forensic/QR.png",
     "picoCTF/Tarea 04 - Forensic",
     "picoCTF/Examen 1er. Parcial/Web/imagenes/08SSTI2.png",
@@ -228,8 +230,6 @@
     "picoCTF/Examen 1er. Parcial/Web",
     "picoCTF/Examen 1er. Parcial/General Skills",
     "Concurso - picoCTF 2026",
-    "picoCTF 2026",
-    "Nueva carpeta",
-    "picoCTF/11 - Forensic 4/imagenes"
+    "picoCTF 2026"
   ]
 }
