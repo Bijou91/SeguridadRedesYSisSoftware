@@ -6,7 +6,7 @@
 Cuando arrancamos el reto, solo nos entregan esta [página web](http://wily-courier.picoctf.net:51124/). Donde hay un gif que actúa según el movimiento de nuestro cursor.
 
 Así que revisaremos el código fuente de la página:
-```
+```html
 <!doctype html>
 
 <html lang="en">
@@ -33,7 +33,7 @@ Así que revisaremos el código fuente de la página:
 ```
 
 Para continuar, nos fijaremos dentro de la hoja de estilos
-```
+```css
 /* source: milkslap-milkslap.scss */
 body {
   margin: 0;

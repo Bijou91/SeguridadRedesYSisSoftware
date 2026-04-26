@@ -14,7 +14,7 @@ Pero si ingresamos 'snickerdoodle', la sugerencia que nos da la página misma, p
 ![[02Cookies2.png]]
 
 Entonces, lo siguiente que haremos es desarrollar un exploit en python para "minar" la respuesta correcta, probando todas las posibles respuestas
-```
+```python
 import requests
 
 url = "http://wily-courier.picoctf.net:57578/check"
@@ -28,7 +28,7 @@ for i in range(21):
 ```
 
 Al ejecutar el código del exploit, obtenemos esta respuesta, donde se encuentra nuestra bandera
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -6,7 +6,7 @@ Download the password checker and you'll need the encrypted flag in the same dir
 ## Solución
 ### Solución:
 Este es el script original:
-```
+```python
 import hashlib
 
 ### THIS FUNCTION WILL NOT HELP YOU FIND THE FLAG --LT ########################
@@ -51,7 +51,7 @@ pos_pw_list = ["6997", "3ac8", "f0ac", "4b17", "ec27", "4e66", "865e"]
 Analizando este código, podemos notar que en la lista del final del código, tenemos todas las posibilidades de contraseñas. 
 
 Lo que haremos ahora es modificar el código de la función level_3_pw_check para que automatice la revisión de cada posible contraseña hasta que encuentre la correcta:
-```
+```python
 def level_3_pw_check():
     # The strings below are 7 possibilities for the correct password. 
     #   (Only 1 is correct)

@@ -6,7 +6,7 @@ Download the Rust code [here](https://challenge-files.picoctf.net/c_verbal_slee
 Este reto se basa en corregir un código en rust para obtener nuestra bandera.
 
 El código a corregir es este:
-```
+```rust
 use xor_cryptor::XORCryptor;  
   
 fn decrypt(encrypted_buffer: Vec<u8>, borrowed_string: &mut String) { // How do we pass values to a function that we want to change?  
@@ -45,7 +45,7 @@ Y debemos realizar estas tres correciones:
 - Agregamos varios `&mut` para que reconozcan los strings
 
 El código terminaría así:
-```
+```rust
 use xor_cryptor::XORCryptor;
 
 // FIX: Changed the function parameter to accept a mutable reference (&mut String)

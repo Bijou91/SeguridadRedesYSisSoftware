@@ -10,7 +10,7 @@ https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=MHg3MA
 
 ### Solución 2:
 - Usando Python
-```
+```python
 int(0x70)
 112
 chr(112)

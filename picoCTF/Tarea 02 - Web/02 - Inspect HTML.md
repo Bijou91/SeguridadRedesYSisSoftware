@@ -8,7 +8,7 @@ Al entrar a la página que nos dan, vemos esta pantalla
 ![[02InspectHTML01.png]]
 
 Como nos dice el nombre del reto, inspeccionamos el código fuente de la página, donde está la bandera
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>

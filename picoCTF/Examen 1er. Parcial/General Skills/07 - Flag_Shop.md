@@ -18,7 +18,7 @@ We sell flags
 ```
 
 Para saber como pasar este reto, nos han entregado el código fuente
-```
+```python
 #include <stdio.h>
 #include <stdlib.h>
 int main()

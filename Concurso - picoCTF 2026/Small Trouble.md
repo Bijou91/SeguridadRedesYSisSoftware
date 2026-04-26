@@ -3,7 +3,7 @@ Everything seems secure; strong numbers, familiar parameters but something small
 Download the [message](https://challenge-files.picoctf.net/c_plain_mesa/1079be04e10c8603dfdacdb45b780bc467aff1eba21cdf0ff9cccc40e2de5c55/message.txt). And source [code](https://challenge-files.picoctf.net/c_plain_mesa/1079be04e10c8603dfdacdb45b780bc467aff1eba21cdf0ff9cccc40e2de5c55/encryption.py)
 # Solución
 Al analizar el código, vemos esto:
-```
+```python
 from random import randint
 from sage.all import *
 

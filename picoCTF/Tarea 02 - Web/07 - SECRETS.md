@@ -8,7 +8,7 @@ Al entrar a la página que nos dan, vemos esta pantalla
 ![[07Secrets.png]]
 
 Al inspeccionar el código fuente de la página, descubrimos que existe una carpeta 'secret'
-```
+```html
 <link href="secret/assets/index.css" rel="stylesheet" />
   </head>
   <body>
@@ -25,17 +25,17 @@ Al inspeccionar el código fuente de la página, descubrimos que existe una carp
 ```
 
 Dentro de esta carpeta, al ver el código fuente de la página que hay ahí, descubrimos otra carpeta
-```
+```html
 <link rel="stylesheet" href="hidden/file.css" />
 ```
 
 Nuevamente, en el código fuente de la página en la carpeta hidden descubrimos otra carpeta más
-```
+```html
 <link href="superhidden/login.css" rel="stylesheet" />
 ```
 
 Finalmente, en el código fuente de esta nueva página, está la bandera
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>

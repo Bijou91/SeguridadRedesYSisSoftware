@@ -10,7 +10,7 @@ https://www.rapidtables.com/convert/number/hex-to-decimal.html?x=3D
 
 ### Solución 2:
 - Usando Python
-```
+```python
 >>> 0x3D
 61
 ```

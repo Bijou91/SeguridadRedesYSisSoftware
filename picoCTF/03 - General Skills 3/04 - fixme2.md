@@ -5,7 +5,7 @@ Fix the syntax error in this Python script to print the flag.
 ## Solución
 ### Solución:
 Este es el script original:
-```
+```python
 import random
 
 def str_xor(secret, key):

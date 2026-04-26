@@ -10,7 +10,7 @@ Al entrar a la página que nos dan, vemos esta pantalla
 al ingresar, obviamente no nos permiten loguearnos.
 
 Ahora, analizaremos el código fuente de la página, donde encontramos un script llamado 'secure.js'
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -29,7 +29,7 @@ Ahora, analizaremos el código fuente de la página, donde encontramos un script
 ```
 
 Al analizar este archivo, encontramos las credenciales válidas
-```
+```javascript
 function checkPassword(username, password)
 {
   if( username === 'admin' && password === 'strongPassword098765' )

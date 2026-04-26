@@ -6,8 +6,7 @@ Can you run [ende.py](https://challenge-files.picoctf.net/c_wily_courier/d8ab9b
 Comenzaremos con descargar los 3 archivos. Notamos que son 2 archivos **.txt** y 1 archivo **.py**. Con esto podemos asumir que los archivos txt contienen nuestra flag y llave mientras el archivo py es el script de desencriptación.
 
 Al analizar el código de ende.py
-```
-
+```python
 import sys
 import base64
 from cryptography.fernet import Fernet

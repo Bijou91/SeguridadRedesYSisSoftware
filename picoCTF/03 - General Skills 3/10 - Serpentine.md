@@ -41,7 +41,7 @@ Oops! I must have misplaced the print_flag function! Check my source code!
 ```
 
 Nos pide consultar el código fuente, donde está esta línea:
-```
+```python
 while True:
     print('a) Print encouragement')
     print('b) Print flag')

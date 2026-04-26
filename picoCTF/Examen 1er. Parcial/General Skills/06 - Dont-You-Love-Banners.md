@@ -64,7 +64,7 @@ ln -s /root/flag.txt banner
 ```
 
 Volviendo a la carpeta `/root`, vemos el script.py, que es este código
-```
+```python
 import os
 import pty
 

@@ -6,7 +6,7 @@ Download the password checker and you'll need the encrypted flag in the same dir
 ## Solución
 ### Solución:
 Este es el script original:
-```
+```python
 ### THIS FUNCTION WILL NOT HELP YOU FIND THE FLAG --LT ########################
 def str_xor(secret, key):
     #extend key to secret length

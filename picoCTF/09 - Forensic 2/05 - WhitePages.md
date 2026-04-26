@@ -29,7 +29,7 @@ Al examinar la secuencia que se repite, podemos notar que son valores hexadecima
 ![unicode](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fv1Obtotuv28BxurdFkngw.jpeg)
 
 Entonces para procesar este archivo, usaremos este código:
-```
+```python
 def convertSpacesToBinary():
     with open('whitepages.txt', 'rb') as f:
         result = f.read()

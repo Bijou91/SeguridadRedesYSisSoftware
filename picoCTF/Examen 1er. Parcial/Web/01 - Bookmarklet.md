@@ -7,7 +7,7 @@ Al entrar a la página que nos entregan, nos topamos con esto
 ![introflag](https://blog.qz.sg/content/images/2024/03/bookmarklet-site.webp)
 
 Dentro de esta página, notamos que nos entregan un código en javascript
-```
+```javascript
         javascript:(function() {
             var encryptedFlag = "àÒÆÞ¦È¬ëÙ£ÖÓÚåÛÑ¢ÕÓÓÇ¡¥Ìí";
             var key = "picoctf";

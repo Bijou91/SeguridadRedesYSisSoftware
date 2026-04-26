@@ -6,7 +6,7 @@ Download the Rust code [here](https://challenge-files.picoctf.net/c_verbal_slee
 Este reto se basa en corregir un código en rust para obtener nuestra bandera.
 
 El código a corregir es este:
-```
+```rust
 use xor_cryptor::XORCryptor;  
   
 fn main() {  
@@ -43,7 +43,7 @@ Y debemos realizar estas tres correciones:
 - Y en `println!(":?", // How do we print out a variable in the println function?` debemos cambiar el `:?` por un par de `{}`
 
 Este es el código corregido:
-```
+```rust
 use xor_cryptor::XORCryptor;  
   
 fn main() {  

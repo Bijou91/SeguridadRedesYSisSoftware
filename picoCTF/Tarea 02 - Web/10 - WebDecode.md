@@ -11,7 +11,7 @@ En la página de 'About' en la página, nos dan la pista de revisar el código f
 ![[10WebDecode02.png]]
 
 Ahí, encontramos esta línea
-```
+```html
 <section class="about" notify_true="cGljb0NURnt3ZWJfc3VjYzNzc2Z1bGx5X2QzYzBkZWRfMWY4MzI2MTV9">
 ```
 

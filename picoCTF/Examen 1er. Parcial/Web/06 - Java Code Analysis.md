@@ -24,7 +24,7 @@ Al decodificar esta cadena de texto con [jwt.io](jwt.io), vemos la información 
 Ahora que sabemos esta información, debemos encontrar la llave secreta que nos deje encriptar la información que usaremos para saltarnos la verificación
 
 Esto lo encontraremos en el código fuente, precisamente en el archivo `SecretGenerator.java`. El cual nos entrega la llave de encriptación.
-```
+```java
 private String generateRandomString(int len) {
         // not so random
         return "1234";

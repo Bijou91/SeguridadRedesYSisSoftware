@@ -10,7 +10,7 @@ https://www.rapidtables.com/convert/number/decimal-to-binary.html?x=42
 
 ### Solución 2:
 - Usando Python
-```
+```python
 >>> bin(42)
 '0b101010'
 ```

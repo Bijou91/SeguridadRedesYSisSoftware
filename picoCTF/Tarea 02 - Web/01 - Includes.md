@@ -14,7 +14,7 @@ Entonces, lo que haremos ahora es inspeccionar el código fuente de la página, 
 ![[01Includes03.png]]
 
 Al buscar en la hoja de estilos, encontramos una parte de la flag:
-```
+```css
 body {
   background-color: lightblue;
 }
@@ -23,7 +23,7 @@ body {
 ```
 
 Mientras que en el archivo de JavaScript, está la otra parte
-```
+```javascript
 function greetings()
 {
   alert("This code is in a separate file!");
