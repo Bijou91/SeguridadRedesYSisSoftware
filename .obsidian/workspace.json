@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/15 - Crypto 4/05 - flags.md",
+                "file": "picoCTF/Tarea 04 - Crypto/10 - Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - flags"
+              "title": "10 - Vigenere"
             }
           }
         ]
@@ -185,11 +185,23 @@
   },
   "active": "0c006a37e9b0cf63",
   "lastOpenFiles": [
+    "picoCTF/Tarea 04 - Crypto/09 - substitution2.md",
+    "picoCTF/Tarea 04 - Crypto/08 - substitution1.md",
+    "picoCTF/Tarea 04 - Crypto/07 - substitution0.md",
+    "picoCTF/Tarea 04 - Crypto/06 - rail-fence.md",
+    "picoCTF/Tarea 04 - Crypto/05 - morse-code.md",
+    "picoCTF/Tarea 04 - Crypto/04 - hashcrack.md",
+    "picoCTF/Tarea 04 - Crypto/03 - EVEN RSA CAN BE BROKEN.md",
+    "picoCTF/Tarea 04 - Crypto/02 - credstuff.md",
+    "picoCTF/Tarea 04 - Crypto/01 - Crack the Power.md",
+    "picoCTF/Tarea 04 - Crypto/10 - Vigenere.md",
+    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
+    "picoCTF/15 - Crypto 4/05 - flags.md",
+    "picoCTF/Tarea 04 - Crypto",
     "picoCTF/15 - Crypto 4/04 - ReadMyCert.md",
     "picoCTF/15 - Crypto 4/03 - HideToSee.md",
     "picoCTF/15 - Crypto 4/02 - basic-mod1.md",
     "picoCTF/15 - Crypto 4/01 - Pixelated.md",
-    "picoCTF/15 - Crypto 4/05 - flags.md",
     "picoCTF/14 - Crypto 3/03 - b00tl3gRSA2.md",
     "picoCTF/14 - Crypto 3/04 - b00tl3gRSA3.md",
     "picoCTF/14 - Crypto 3/01 - Mini RSA.md",
@@ -201,19 +213,7 @@
     "picoCTF/13 - Crypto 2/08 - waves over lambda.md",
     "picoCTF/13 - Crypto 2/07 - Tapping.md",
     "picoCTF/13 - Crypto 2/06 - la cifra de.md",
-    "picoCTF/13 - Crypto 2/05 - Easy1.md",
-    "picoCTF/13 - Crypto 2/04 - caesar.md",
-    "picoCTF/13 - Crypto 2/03 - The Numbers.md",
-    "picoCTF/13 - Crypto 2/02 - interencdec.md",
     "picoCTF/13 - Crypto 2",
-    "picoCTF/12 - Crypto 1/07 - Tapping.md",
-    "picoCTF/12 - Crypto 1/06 - la cifra de.md",
-    "picoCTF/12 - Crypto 1/04 - caesar.md",
-    "picoCTF/12 - Crypto 1/05 - Easy1.md",
-    "picoCTF/12 - Crypto 1/03 - The Numbers.md",
-    "picoCTF/12 - Crypto 1/02 - interencdec.md",
-    "picoCTF/12 - Crypto 1/01 - 13.md",
-    "picoCTF/11 - Forensic 4/01 - Milkslap.md",
     "picoCTF/12 - Crypto 1",
     "Pasted image 20260328192646.png",
     "Pasted image 20260328192702.png",
@@ -229,7 +229,6 @@
     "picoCTF/Examen 1er. Parcial/Web/imagenes",
     "picoCTF/Examen 1er. Parcial/Web",
     "picoCTF/Examen 1er. Parcial/General Skills",
-    "Concurso - picoCTF 2026",
-    "picoCTF 2026"
+    "Concurso - picoCTF 2026"
   ]
 }
