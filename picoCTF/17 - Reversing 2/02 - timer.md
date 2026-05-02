@@ -1,0 +1,36 @@
+# timer
+
+# Descripción 
+You will find the flag after analysing this apk
+Download [here](https://artifacts.picoctf.net/c/449/timer.apk).
+## Solución
+Una de las pistas del reto nos habla de 'decompilar', y como en esta ocasión se usará un .apk, entonces utilizaremos la herramiento apktool
+```
+┌──(kali㉿kali)-[/media/sf_almacenamientoCompartido/Reversing02/timer]
+└─$ apktool d timer.apk
+I: Using Apktool 2.7.0-dirty on timer.apk
+I: Loading resource table...
+I: Decoding AndroidManifest.xml with resources...
+I: Loading resource table from file: /home/kali/.local/share/apktool/framework/1.apk
+I: Regular manifest package...
+I: Decoding file-resources...
+I: Decoding values */* XMLs...
+I: Baksmaling classes.dex...
+I: Baksmaling classes3.dex...
+I: Baksmaling classes2.dex...
+I: Copying assets and libs...
+I: Copying unknown files...
+I: Copying original files...
+```
+
+Luego de que se complete, obtendremos una carpeta llena de todos los archivos y carpetas que componen la apk, para no tener que buscar archivo por archivo, usaremos el comando grep
+```
+┌──(kali㉿kali)-[/media/sf_almacenamientoCompartido/Reversing02/timer/timer]
+└─$ grep -r "pico"
+apktool.yml:  versionName: picoCTF{t1m3r_r3v3rs3d_succ355fully_17496}
+smali_classes3/com/example/timer/BuildConfig.smali:.field public static final VERSION_NAME:Ljava/lang/String; = "picoCTF{t1m3r_r3v3rs3d_succ355fully_17496}"
+```
+
+picoCTF{t1m3r_r3v3rs3d_succ355fully_17496}
+## Notas
+- 

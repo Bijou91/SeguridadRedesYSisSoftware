@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/16 - Reversing 1/02 - vault-door-1.md",
+                "file": "picoCTF/17 - Reversing 2/03 - Picker I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - vault-door-1"
+              "title": "03 - Picker I"
             }
           }
         ]
@@ -185,11 +185,20 @@
   },
   "active": "0c006a37e9b0cf63",
   "lastOpenFiles": [
+    "picoCTF/17 - Reversing 2/05 - Picker III.md",
+    "picoCTF/17 - Reversing 2/06 - Picker IV.md",
+    "picoCTF/17 - Reversing 2/04 - Picker II.md",
+    "picoCTF/17 - Reversing 2/03 - Picker I.md",
+    "picoCTF/17 - Reversing 2/02 - timer.md",
+    "picoCTF/17 - Reversing 2/01 - Safe opener 2.md",
+    "picoCTF/16 - Reversing 1/02 - vault-door-1.md",
+    "picoCTF/17 - Reversing 2/05 - vault-door-5.md",
+    "picoCTF/17 - Reversing 2/04 - vault-door-4.md",
+    "picoCTF/17 - Reversing 2",
     "picoCTF/16 - Reversing 1/01 - vault-door-training.md",
     "picoCTF/16 - Reversing 1/03 - vault-door-3.md",
     "picoCTF/16 - Reversing 1/04 - vault-door-4.md",
     "picoCTF/16 - Reversing 1/05 - vault-door-5.md",
-    "picoCTF/16 - Reversing 1/02 - vault-door-1.md",
     "picoCTF/14 - Crypto 3/01 - Mini RSA.md",
     "picoCTF/Tarea 04 - Crypto/10 - Vigenere.md",
     "picoCTF/16 - Reversing 1",
@@ -204,14 +213,6 @@
     "picoCTF/Tarea 04 - Crypto/01 - Crack the Power.md",
     "picoCTF/Tarea 03 - Forensic/09 - Ph4nt0m 1ntrud3r.md",
     "picoCTF/Tarea 03 - Forensic/08 - RED.md",
-    "picoCTF/Tarea 03 - Forensic/07 - Secret of the Polyglot.md",
-    "picoCTF/Tarea 03 - Forensic/06 - CanYouSee.md",
-    "picoCTF/Tarea 03 - Forensic/05 - Scan Surprise.md",
-    "picoCTF/Tarea 03 - Forensic/04 - hideme.md",
-    "picoCTF/Tarea 03 - Forensic/03 - Redaction gone wrong.md",
-    "picoCTF/Tarea 03 - Forensic/02 - st3g0.md",
-    "picoCTF/Tarea 03 - Forensic/01 - information.md",
-    "picoCTF/Tarea 02 - Web/10 - WebDecode.md",
     "picoCTF/Tarea 04 - Crypto",
     "picoCTF/14 - Crypto 3",
     "picoCTF/15 - Crypto 4",
@@ -229,7 +230,6 @@
     "Pasted image 20260325174448.png",
     "picoCTF/Examen 1er. Parcial/Web/imagenes/05findme.png",
     "picoCTF/Examen 1er. Parcial/Web/imagenes",
-    "picoCTF/Examen 1er. Parcial/Web",
-    "picoCTF/Examen 1er. Parcial/General Skills"
+    "picoCTF/Examen 1er. Parcial/Web"
   ]
 }
