@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/17 - Reversing 2/03 - Picker I.md",
+                "file": "picoCTF/18 - Reversing 3/03 - asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Picker I"
+              "title": "03 - asm3"
             }
           }
         ]
@@ -185,10 +185,14 @@
   },
   "active": "0c006a37e9b0cf63",
   "lastOpenFiles": [
+    "picoCTF/18 - Reversing 3/01 - asm1.md",
+    "picoCTF/18 - Reversing 3/02 - asm2.md",
+    "picoCTF/18 - Reversing 3/03 - asm3.md",
+    "picoCTF/17 - Reversing 2/03 - Picker I.md",
+    "picoCTF/18 - Reversing 3",
     "picoCTF/17 - Reversing 2/05 - Picker III.md",
     "picoCTF/17 - Reversing 2/06 - Picker IV.md",
     "picoCTF/17 - Reversing 2/04 - Picker II.md",
-    "picoCTF/17 - Reversing 2/03 - Picker I.md",
     "picoCTF/17 - Reversing 2/02 - timer.md",
     "picoCTF/17 - Reversing 2/01 - Safe opener 2.md",
     "picoCTF/16 - Reversing 1/02 - vault-door-1.md",
@@ -210,9 +214,6 @@
     "picoCTF/Tarea 04 - Crypto/04 - hashcrack.md",
     "picoCTF/Tarea 04 - Crypto/03 - EVEN RSA CAN BE BROKEN.md",
     "picoCTF/Tarea 04 - Crypto/02 - credstuff.md",
-    "picoCTF/Tarea 04 - Crypto/01 - Crack the Power.md",
-    "picoCTF/Tarea 03 - Forensic/09 - Ph4nt0m 1ntrud3r.md",
-    "picoCTF/Tarea 03 - Forensic/08 - RED.md",
     "picoCTF/Tarea 04 - Crypto",
     "picoCTF/14 - Crypto 3",
     "picoCTF/15 - Crypto 4",
@@ -229,7 +230,6 @@
     "Pasted image 20260325173934.png",
     "Pasted image 20260325174448.png",
     "picoCTF/Examen 1er. Parcial/Web/imagenes/05findme.png",
-    "picoCTF/Examen 1er. Parcial/Web/imagenes",
-    "picoCTF/Examen 1er. Parcial/Web"
+    "picoCTF/Examen 1er. Parcial/Web/imagenes"
   ]
 }
